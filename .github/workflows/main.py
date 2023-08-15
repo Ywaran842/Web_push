@@ -1,6 +1,8 @@
+a = b
 a = 10
-b = 20 
-for i in a:
-  i=10
-  if a == i:
-    print('The statement is true')
+for i in x:
+  x = 'hello'
+  if x == b:
+    print('a = 10')
+  else:
+    print('b =! a')
